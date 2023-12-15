@@ -1,0 +1,17 @@
+*.o
+*.a
+*.so
+.*.swp
+.*.swo
+.*.swn
+
+# target app
+exec
+
+# keep .gitignore
+!.gitignore
+
+# vim related
+open*
+
+
